@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Bianca!
 
-<!--
-**silva-bianca/Silva-bianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+- 💻 Explorando diferentes linguagens e tecnologias  
+- 📍 São Paulo - Brasil 
+---
 
-Here are some ideas to get you started:
+## 🌱 O que estou estudando
+- Fundamentos de programação  
+- Lógica de algoritmos  
+- Versionamento com Git e GitHub  
+- Introdução a bancos de dados  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 Próximos passos
+- Escolher uma linguagem principal (estou explorando Python, Java e JavaScript)  
+- Criar projetos simples para praticar (calculadoras, sistemas de cadastro, etc.)  
+- Contribuir em projetos open-source no futuro  
+
+---
+
+## 📊 GitHub Stats
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silva-bianca/Silva-bianca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bianca-da-silva-lima)
+
+---
+
+✨ Sinta-se à vontade para acompanhar minha jornada de aprendizado aqui no GitHub!
